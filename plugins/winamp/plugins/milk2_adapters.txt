@@ -1,0 +1,23 @@
+Winamp version = 0x5050
+Plugin long name = "MilkDrop v2.24", version=200, subversion=5
+Enumeration of Display Adapters:
+1. Driver=nvldumd.dll
+    Description=NVIDIA GeForce GTX 1080
+    DeviceName=\\.\DISPLAY1
+    DriverVersion=0x000E1677 (1769493)
+    VendorId=4318
+    DeviceId=7040
+    SubSysId=0x62883842
+    Revision=161
+    WHQLLevel=0
+    GUID=D7B71E3E 58C0 11CF 85 4D 86 42 1B C2 D6 35
+2. Driver=nvldumd.dll
+    Description=NVIDIA GeForce GTX 1080
+    DeviceName=\\.\DISPLAY2
+    DriverVersion=0x000E1677 (1769493)
+    VendorId=4318
+    DeviceId=7040
+    SubSysId=0x62883842
+    Revision=161
+    WHQLLevel=0
+    GUID=D7B71E3E 58C0 11CF 85 4D 86 42 1B C2 D6 35
