@@ -14,7 +14,7 @@ Looks like this...
 
 One-liner script for PowerShell (Requires `git` installed)
 
-```
+```powershell
 git clone https://github.com/aaanh/foobar2k-configs.git; Copy-Item -Recurse foobar2k-configs\* %APPDATA%\foobar2000\
 ```
 
