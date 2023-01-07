@@ -20,7 +20,7 @@ git clone https://github.com/aaanh/foobar2k-configs.git; Copy-Item -Recurse foob
 
 Manually
 
-1. Download or clone this repository
+1. Download or clone this repository or the release source file
 1. Copy all of its content, barring this `README.md` file
 1. Open Explorer and navigate to `%APPDATA%\foobar2000` on the address bar
     1. (<kbd>Win + R</kbd> &rightarrow; `%APPDATA%\foobar2000` &rightarrow; <kbd>Enter</kbd>)
